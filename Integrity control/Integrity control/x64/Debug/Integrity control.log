@@ -1,0 +1,3 @@
+﻿  Integrity control.cpp
+C:\Users\dolgu\source\repos\Integrity control\Integrity control\Integrity control.cpp(14,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Integrity control.vcxproj -> C:\Users\dolgu\source\repos\Integrity control\x64\Debug\Integrity control.exe
